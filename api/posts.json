@@ -1,56 +1,56 @@
 [
   {
     "uid": 1,
-    "text" : "Have you heard about the Web Components revolution?",
-    "username" : "Eric",
+    "text" : "Vois-tu la puissance de polymer?",
+    "username" : "Nico",
     "avatar" : "images/avatar-01.svg",
     "favorite": false
   },
   {
     "uid": 2,
-    "text" : "Loving this Polymer thing.",
-    "username" : "Rob",
+    "text" : "Yep, j'adore ca.",
+    "username" : "Beber",
     "avatar" : "images/avatar-02.svg",
     "favorite": false
   },
     {
     "uid": 3,
-    "text" : "So last year...",
-    "username" : "Dimitri",
+    "text" : "Et ben il faut s'y mettre tout de suite.",
+    "username" : "Alex",
     "avatar" : "images/avatar-03.svg",
     "favorite": false
   },
   {
     "uid": 4,
-    "text" : "Pretty sure I came up with that first.",
-    "username" : "Ada",
+    "text" : "Il faudra que vous m'epliquiez ca...",
+    "username" : "Vivi",
     "avatar" : "images/avatar-07.svg",
     "favorite": false
   },
   {
     "uid": 5,
-    "text" : "Yo, I heard you like components, so I put a component in your component.",
-    "username" : "Grace",
+    "text" : "Pourquoi pas...",
+    "username" : "Manue",
     "avatar" : "images/avatar-08.svg",
     "favorite": false
   },
   {
     "uid": 6,
-    "text" : "Centralize, centrailize.",
-    "username" : "John",
+    "text" : "Ok dac, alors qu'en est ce qu'on commence?",
+    "username" : "Adrien",
     "avatar" : "images/avatar-04.svg",
     "favorite": false
   },
   {
     "uid": 7,
-    "text" : "Has anyone seen my cat?",
+    "text" : "Vous n'auriez pas vu Link?",
     "username" : "Zelda",
     "avatar" : "images/avatar-06.svg",
     "favorite": false
   },
   {
     "uid": 8,
-    "text" : "Decentralize!",
+    "text" : "Je me suis perdu!",
     "username" : "Norbert",
     "avatar" : "images/avatar-05.svg",
     "favorite": false
